@@ -1,7 +1,7 @@
 var friend = [
   {
-    name: "Mohamed Ali",
-    photo: "https://timedotcom.files.wordpress.com/2018/06/muhammad-ali-pardon.jpg",
+    name: "alicia keys",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AliciaKeys2013.jpg/220px-AliciaKeys2013.jpg",
     scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 4]
   },
 
@@ -19,9 +19,6 @@ var friend = [
 
     scores: [4, 4, 2, 3, 2, 2, 3, 2, 4, 5]
   },
-
-
-
 
   {
     name: "Robyn Rihanna Fenty",

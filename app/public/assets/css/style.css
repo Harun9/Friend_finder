@@ -1,0 +1,29 @@
+body{
+  background-image: url("../images/background.jpg");
+  background-repeat: repeat;
+  font-family: Arial;
+  font-size: 18px;
+  color: #777;
+  line-height: 28px;
+}
+.jumbotron {
+  background: #4aa5;
+  
+}
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+hr {
+  border-color: inherit;
+  margin: 1em 0;
+}
+.smalltitle {
+  color: lightgreen;
+}
+#results {
+  overflow: hidden;
+  width: 500px;
+}
