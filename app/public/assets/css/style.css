@@ -7,13 +7,22 @@ body{
   line-height: 28px;
 }
 .jumbotron {
-  background: #4aa5;
+  background: purple;
+  display: block;
+  
   
 }
 .logo {
+  float: left;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  background-color: #7FA6A5;
+  color:#fff;
+  font-family: "Georgia";
+  font-size: 30px;
+  padding: 0 40px;
+  line-height: 90px;
+  font-weight: bold;
+  text-decoration: none
 }
 
 hr {

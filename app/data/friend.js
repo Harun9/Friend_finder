@@ -9,7 +9,7 @@ var friend = [
   {
     name: "beyonce",
     photo: "https://pixel.nymag.com/imgs/daily/vulture/2018/06/27/27-beyonce-jay-z.w700.h700.jpg",
-    scores: [4, 2, 5, 1, 3, 2, 2, 1, 3, 2]
+    scores: [3, 2, 5, 1, 3, 2, 2, 1, 3, 2]
   },
 
 
